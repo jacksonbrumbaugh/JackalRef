@@ -25,4 +25,4 @@ There 98 choices of approved verbs in PowerShell to be used in the conventional 
 | Deny         | Join          | Remove        | Step          |            |
 | Disable      | Limit         | Rename        | Stop          |            |
 
-Table: Table 01
+Table: Table 01; Approved PowerShell Verbs
